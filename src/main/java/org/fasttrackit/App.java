@@ -25,6 +25,8 @@ public class App {
         System.out.println(methods.division(7.5, 3.4));
 
 
+
+
 // numere zecimale double
 //        System.out.println(methodsclass.sum2(7.5, 2.3));
 //
